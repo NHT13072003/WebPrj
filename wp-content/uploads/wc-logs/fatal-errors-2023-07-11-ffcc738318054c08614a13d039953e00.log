@@ -1,0 +1,16 @@
+2023-07-11T07:21:32+00:00 CRITICAL Out of memory (allocated 40894464) (tried to allocate 32768 bytes) in /home/hczvvprohosting/public_html/wp-includes/blocks/blocks-json.php on line 1
+
+2023-07-11T07:21:33+00:00 CRITICAL Out of memory (allocated 101711872) (tried to allocate 36864 bytes) in /home/hczvvprohosting/public_html/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-v2-controller.php on line 633
+
+2023-07-11T07:25:25+00:00 CRITICAL Out of memory (allocated 70254592) (tried to allocate 32768 bytes) in /home/hczvvprohosting/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php on line 389
+
+2023-07-11T07:26:49+00:00 CRITICAL Out of memory (allocated 40894464) (tried to allocate 20480 bytes) in /home/hczvvprohosting/public_html/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/orm/lib/Doctrine/ORM/Query/Parser.php on line 541
+
+2023-07-11T08:14:47+00:00 CRITICAL Out of memory (allocated 108003328) (tried to allocate 32768 bytes) in /home/hczvvprohosting/public_html/wp-content/plugins/wc-vendors/classes/admin/emails/class-wcv-vendor-notify-order.php on line 1
+
+2023-07-11T08:22:05+00:00 CRITICAL Out of memory (allocated 42991616) (tried to allocate 32768 bytes) in /home/hczvvprohosting/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/ProductsByAttribute.php on line 1
+
+2023-07-11T08:25:37+00:00 CRITICAL Out of memory (allocated 99614720) (tried to allocate 73728 bytes) in /home/hczvvprohosting/public_html/wp-content/plugins/mailpoet/vendor/composer/ClassLoader.php on line 292
+
+2023-07-11T08:25:37+00:00 CRITICAL Out of memory (allocated 108003328) (tried to allocate 32768 bytes) in /home/hczvvprohosting/public_html/wp-content/plugins/wc-vendors/classes/admin/emails/class-wcv-admin-notify-shipped.php on line 1
+
